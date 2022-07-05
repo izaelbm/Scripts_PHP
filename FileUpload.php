@@ -2,7 +2,7 @@
 	<title>File Upload</title>
 	<head>File Upload</head>
 	<body>
-		<form action="#" method="post" enctype="multipart/form-data">
+		<form action="" method="post" enctype="multipart/form-data">
 			<label>Selecione o Arquivo</label>
 			<input type="file" id="file" name="file"/>
 			<input type="submit" value="Enviar" name="submit">
